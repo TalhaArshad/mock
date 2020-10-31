@@ -1,65 +1,8 @@
 {
     "data": {
-        "type": "gif",
-        "id": "WgO3ZkVox7WbXI2mb8",
-        "url": "https://giphy.com/gifs/season-3-nbc-this-is-us-WgO3ZkVox7WbXI2mb8",
-        "slug": "season-3-nbc-this-is-us-WgO3ZkVox7WbXI2mb8",
-        "bitly_gif_url": "https://gph.is/2QVBSNv",
-        "bitly_url": "https://gph.is/2QVBSNv",
-        "embed_url": "https://giphy.com/embed/WgO3ZkVox7WbXI2mb8",
-        "username": "",
-        "source": "https://www.nbc.com/this-is-us",
-        "title": "season 3 nbc GIF",
-        "rating": "g",
-        "content_url": "",
-        "source_tld": "www.nbc.com",
-        "source_post_url": "https://www.nbc.com/this-is-us",
-        "is_sticker": 0,
-        "import_datetime": "2019-01-17 20:03:40",
-        "trending_datetime": "0000-00-00 00:00:00",
-        "images": {
-            "downsized_large": {
-                "height": "281",
-                "size": "1484052",
-                "url": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/giphy.gif?cid=e7339ecec9c916320f23c0831fede170d0a6f08ee947f23d&rid=giphy.gif",
-                "width": "500"
-            },
-            "fixed_height_small_still": {
-                "height": "100",
-                "size": "14716",
-                "url": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/100_s.gif?cid=e7339ecec9c916320f23c0831fede170d0a6f08ee947f23d&rid=100_s.gif",
-                "width": "178"
-            },
-            "original": {
-                "frames": "21",
-                "hash": "77495ba28fb63d7bc695e32455a6305c",
-                "height": "281",
-                "mp4": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/giphy.mp4?cid=e7339ecec9c916320f23c0831fede170d0a6f08ee947f23d&rid=giphy.mp4",
-                "mp4_size": "311487",
-                "size": "1484052",
-                "url": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/giphy.gif?cid=e7339ecec9c916320f23c0831fede170d0a6f08ee947f23d&rid=giphy.gif",
-                "webp": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/giphy.webp?cid=e7339ecec9c916320f23c0831fede170d0a6f08ee947f23d&rid=giphy.webp",
-                "webp_size": "470124",
-                "width": "500"
-            },
-            "preview": {
-                "height": "196",
-                "mp4": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/giphy-preview.mp4?cid=e7339ecec9c916320f23c0831fede170d0a6f08ee947f23d&rid=giphy-preview.mp4",
-                "mp4_size": "35346",
-                "width": "350"
-            },
-            "preview_gif": {
-                "height": "69",
-                "size": "49938",
-                "url": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/giphy-preview.gif?cid=e7339ecec9c916320f23c0831fede170d0a6f08ee947f23d&rid=giphy-preview.gif",
-                "width": "123"
-            },
-            "480w_still": {
-                "url": "https://media3.giphy.com/media/WgO3ZkVox7WbXI2mb8/480w_s.jpg?cid=e7339ecec9c916320f23c0831fede170d0a6f08ee947f23d&rid=480w_s.jpg",
-                "width": "480",
-                "height": "270"
-            }
-        },
+
+       
+ 
         "image_original_url": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/giphy.gif",
         "image_url": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/giphy.gif",
         "image_mp4_url": "https://media0.giphy.com/media/WgO3ZkVox7WbXI2mb8/giphy.mp4",
